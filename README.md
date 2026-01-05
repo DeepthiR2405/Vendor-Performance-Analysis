@@ -66,6 +66,7 @@ The dataset represents transactional purchase and sales data at a vendor level, 
 
 Below is the end-to-end analytical flow followed in this project:
 
+![Uploading ChatGPT Image Jan 5, 2026, 05_13_49 PM.png…]()
 
 
 ✔ This flow mirrors real-world analytics projects followed in industry.
