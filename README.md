@@ -66,7 +66,13 @@ The dataset represents transactional purchase and sales data at a vendor level, 
 
 Below is the end-to-end analytical flow followed in this project:
 
-![Uploading ChatGPT Image Jan 5, 2026, 05_13_49 PM.png…]()
+![Vendor Performance Analysis Workflow](assets/vendor_analysis_flowchart.png)
+
+<h2 align="center">🔁 Project Workflow</h2>
+
+<p align="center">
+  <img src="assets/vendor_analysis_flowchart.png" width="900">
+</p>
 
 
 ✔ This flow mirrors real-world analytics projects followed in industry.
