@@ -38,11 +38,11 @@ This project aims to analyze vendor performance holistically and provide data-ba
 
 * Which vendors should be:
 
-** Scaled
+  * Scaled
 
-- Negotiated with
+  * Negotiated with
 
-- Reviewed or terminated?
+  * Reviewed or terminated?
 
 * How does cost efficiency differ across vendors?
 
