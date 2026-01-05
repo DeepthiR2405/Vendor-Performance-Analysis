@@ -38,7 +38,7 @@ This project aims to analyze vendor performance holistically and provide data-ba
 
 * Which vendors should be:
 
-- Scaled
+** Scaled
 
 - Negotiated with
 
