@@ -163,7 +163,9 @@ Apply analytics to real operational problems
 👤 About Me
 
 Deepthi R
+
 Aspiring Data Analyst | Python • SQL • Business Analytics • Visualization
 
 🔗 GitHub: https://github.com/DeepthiR2405
+
 📊 Focus: Turning data into business decisions
