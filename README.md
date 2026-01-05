@@ -1,24 +1,24 @@
-📊 Vendor Performance & Profitability Analysis
+# 📊 Vendor Performance & Profitability Analysis
 
 A Business-Driven Data Analytics Project
 
-❓ Business Problem
+# ❓Business Problem
 
 How can a retail/wholesale organization improve profitability by identifying high-value vendors, controlling cost leakages (freight & pricing), and eliminating loss-making vendor relationships?
 
 In competitive retail and wholesale environments, profitability is often impacted by:
 
-Inefficient vendor pricing
+* Inefficient vendor pricing
 
-High freight and procurement costs
+* High freight and procurement costs
 
-Low-margin or loss-making vendors
+* Low-margin or loss-making vendors
 
-Uneven contribution of vendors to overall revenue and profit
+* Uneven contribution of vendors to overall revenue and profit
 
 This project aims to analyze vendor performance holistically and provide data-backed recommendations to optimize vendor strategy and purchasing decisions.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 Identify top-performing and underperforming vendors
 
@@ -30,7 +30,7 @@ Segment vendors based on business value
 
 Provide actionable business recommendations for cost optimization and vendor rationalization
 
-🧠 Key Business Questions Answered
+# 🧠 Key Business Questions Answered
 
 Which vendors generate maximum revenue but low profit?
 
@@ -46,7 +46,7 @@ Reviewed or terminated?
 
 How does cost efficiency differ across vendors?
 
-🗂️ Dataset Overview
+# 🗂️ Dataset Overview
 
 The dataset represents transactional purchase and sales data at a vendor level, including:
 
@@ -62,7 +62,7 @@ Derived profitability metrics
 
 📌 The analysis focuses on vendor profitability and cost efficiency based on the data available.
 
-🔄 Project Workflow
+# 🔄 Project Workflow
 
 Below is the end-to-end analytical flow followed in this project:
 
@@ -79,7 +79,7 @@ flowchart LR
 
 ✔ This flow mirrors real-world analytics projects followed in industry.
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 Python (Pandas, NumPy)
 
@@ -89,7 +89,7 @@ Jupyter Notebook
 
 GitHub (Version Control & Portfolio)
 
-📈 Key Metrics Created
+# 📈 Key Metrics Created
 
 Total Sales Revenue
 
@@ -105,7 +105,7 @@ Sales-to-Cost Ratio
 
 Vendor Segmentation Labels
 
-📊 Analysis Highlights
+# 📊 Analysis Highlights
 🔹 KPI Summary
 
 Identified overall negative gross profit, indicating pricing or cost inefficiencies
@@ -138,7 +138,7 @@ Terminate / Review Vendors
 
 This segmentation enables data-driven vendor decision-making.
 
-💡 Business Recommendations
+# 💡 Business Recommendations
 
 Renegotiate pricing or freight terms with high-revenue but low-margin vendors
 
@@ -148,7 +148,7 @@ Review or discontinue vendors with persistent negative profitability
 
 Optimize procurement strategy to reduce freight cost leakages
 
-🧩 Why This Project Matters
+# 🧩 Why This Project Matters
 
 This project demonstrates my ability to:
 
@@ -160,7 +160,7 @@ Communicate findings in a decision-ready format
 
 Apply analytics to real operational problems
 
-👤 About Me
+# 👤 About Me
 
 Deepthi R
 
