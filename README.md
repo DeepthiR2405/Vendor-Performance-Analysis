@@ -67,11 +67,7 @@ The dataset represents transactional purchase and sales data at a vendor level, 
 Below is the end-to-end analytical flow followed in this project:
 
 
-<p align="center">
-  <img src="<img width="1536" height="1024" alt="ChatGPT Image Jan 5, 2026, 05_13_49 PM" src="https://github.com/user-attachments/assets/edcee6aa-29ed-4fd8-b896-90b89a98a382" />
-" width="900">
-</p>
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6075a70c-32cc-4fc1-99e4-ad76865c2194" />
 
 ✔ This flow mirrors real-world analytics projects followed in industry.
 
